@@ -5,21 +5,24 @@ I'm an aspiring **Data Analyst** passionate about automation, dashboards, and so
 ---
 
 ### 💡 What I Do
-- Automate reporting processes using Excel & VBA
-- Create interactive dashboards with Excel & Power BI
-- Analyze data for insights using SPSS and Python
-- Build tools that save time and reduce manual work
+- 📊 Build dynamic dashboards in Excel & Power BI
+- ⚙️ Automate reports and data comparisons using Excel VBA
+- 📚 Analyze survey and business data to uncover trends
+- 🧹 Clean, reshape, and organize messy datasets for analysis
+- 📈 Explore Python and statistical tools to grow in analytics
 
 ---
 
-### 🔧 Tools I Use
-- Excel (Advanced formulas, Power Query, VBA)
-- Power BI (Dashboards, KPIs, DAX)
-- Tableau (Dashboards, KPIs, DAX)
-- Python (pandas, matplotlib – beginner level)
-- Database (MySQL, Snowflake)
-- SPSS (Survey analysis)
-- Google Colab & Jupyter Notebook (Python notebooks)
+### 🔧 Tools & Skills
+
+**Data Analysis**: Excel, SPSS, Python (pandas, NumPy), Minitab  
+**Visualization**: Power BI, Tableau, Python (matplotlib, seaborn), Excel  
+**Databases**: MySQL, Snowflake  
+**Programming**: Python, Java  
+**Automation**: Excel VBA & Macros  
+**Statistics**: Hypothesis Testing, Regression, Time Series, Descriptive Stats  
+**Research**: Survey Design, Sampling, Data Cleaning  
+**Math**: Financial Math, Mathematical Modeling
 
 ---
 
