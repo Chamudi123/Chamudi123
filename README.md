@@ -27,7 +27,7 @@ I'm an aspiring **Data Analyst** passionate about automation, dashboards, and so
 ---
 
 ### 📁 Projects
-- **[[Automated-Task-Tracker-Dashboard](https://github.com/Chamudi123/Automated-Task-Tracker-Dashboard)](#)** – Automates task tracking in Excel
+- **[Automated-Task-Tracker-Dashboard](https://github.com/Chamudi123/Automated-Task-Tracker-Dashboard)** – Automates task tracking in Excel
 - **[Excel-Data-Comparison-Processing-Automation](https://github.com/Chamudi123/Excel-Data-Comparison-Processing-Automation)** – Compares large Excel files using VBA
 - **[Automatic-Email](https://github.com/Chamudi123/Automatic-Email)** – Excel Automated Solution for sending emails
 - **[Uncovering-Academic-Stress-Student-Well-being](https://github.com/Chamudi123/Uncovering-Academic-Stress-Student-Well-being)** – SPSS-based analysis on student well-being
