@@ -27,10 +27,10 @@ I'm an aspiring **Data Analyst** passionate about automation, dashboards, and so
 ---
 
 ### 📁 Projects
-- **[Task Tracker Dashboard](#)** – Automates task tracking in Excel
-- **[Data Comparison Tool](#)** – Compares large Excel files using VBA
-- **[Car Price Analysis](#)** – Power BI dashboard for car pricing trends
-- **[Academic Stress Study](#)** – SPSS-based analysis on student well-being
+- **[Automated-Task-Tracker-Dashboard](#)** – Automates task tracking in Excel
+- **[Excel-Data-Comparison-Processing-Automation](#)** – Compares large Excel files using VBA
+- **[Automatic-Email](#)** – Excel Automated Solution for sending emails
+- **[Uncovering-Academic-Stress-Student-Well-being](#)** – SPSS-based analysis on student well-being
 
 ---
 
