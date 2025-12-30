@@ -31,13 +31,13 @@ I'm an aspiring **Data Analyst** passionate about automation, dashboards, and so
 - **[Excel-Data-Comparison-Processing-Automation](https://github.com/Chamudi123/Excel-Data-Comparison-Processing-Automation)** – Compares large Excel files using VBA
 - **[Automatic-Email](https://github.com/Chamudi123/Automatic-Email)** – Excel Automated Solution for sending emails
 - **[Uncovering-Academic-Stress-Student-Well-being](https://github.com/Chamudi123/Uncovering-Academic-Stress-Student-Well-being)** – SPSS-based analysis on student well-being
-- **[Inbound-Shipment-Overview-Dashboard]()**
+- **[Inbound-Shipment-Overview-Dashboard](https://github.com/Chamudi123/Inbound-Shipment-Overview-Dashboard)** - Executive Excel dashboard for inbound shipment visibility, exception tracking, and operational insights
 
 ---
 
 ### 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/chamudi-senevirathna)
-- Email: anjanasewmini1218@gmail.com
+- Email: chamudisenevirathna18@gmail.com
 
 <!---
 Chamudi123/Chamudi123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
